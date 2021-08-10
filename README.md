@@ -1,2 +1,2 @@
-# next-step-with-svelte
+# First-step-with-svelte
 Created with CodeSandbox
